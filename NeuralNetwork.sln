@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perceptron", "FirstPlay\Perceptron.csproj", "{79FE74DA-E6A8-4D05-AC4F-0036D24CF293}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoiteAOutils", "BoiteAOutils\BoiteAOutils.csproj", "{59AA8719-F3B7-4038-98D4-AC13CCA756ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiCouche", "MultiCouche\MultiCouche.csproj", "{F5084B3F-2232-4019-8909-2F1FEFA4722E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KohonenNetwork", "KohonenNetwork\KohonenNetwork.csproj", "{CF416CFD-0D01-4C66-8B3C-6FC7A76CD4D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KohonenPath", "KohonenPath\KohonenPath.csproj", "{55FBB086-ED36-4B8D-A380-D1CCE8FCBAD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robot", "Robot\Robot.csproj", "{4044F958-EAA4-454A-A394-DE3C7661A097}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79FE74DA-E6A8-4D05-AC4F-0036D24CF293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79FE74DA-E6A8-4D05-AC4F-0036D24CF293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79FE74DA-E6A8-4D05-AC4F-0036D24CF293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79FE74DA-E6A8-4D05-AC4F-0036D24CF293}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59AA8719-F3B7-4038-98D4-AC13CCA756ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59AA8719-F3B7-4038-98D4-AC13CCA756ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59AA8719-F3B7-4038-98D4-AC13CCA756ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59AA8719-F3B7-4038-98D4-AC13CCA756ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5084B3F-2232-4019-8909-2F1FEFA4722E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5084B3F-2232-4019-8909-2F1FEFA4722E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5084B3F-2232-4019-8909-2F1FEFA4722E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5084B3F-2232-4019-8909-2F1FEFA4722E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF416CFD-0D01-4C66-8B3C-6FC7A76CD4D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF416CFD-0D01-4C66-8B3C-6FC7A76CD4D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF416CFD-0D01-4C66-8B3C-6FC7A76CD4D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF416CFD-0D01-4C66-8B3C-6FC7A76CD4D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55FBB086-ED36-4B8D-A380-D1CCE8FCBAD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55FBB086-ED36-4B8D-A380-D1CCE8FCBAD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55FBB086-ED36-4B8D-A380-D1CCE8FCBAD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55FBB086-ED36-4B8D-A380-D1CCE8FCBAD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4044F958-EAA4-454A-A394-DE3C7661A097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4044F958-EAA4-454A-A394-DE3C7661A097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4044F958-EAA4-454A-A394-DE3C7661A097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4044F958-EAA4-454A-A394-DE3C7661A097}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

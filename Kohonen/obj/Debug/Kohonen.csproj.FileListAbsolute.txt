@@ -1,0 +1,8 @@
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\Kohonen\bin\Debug\Kohonen.exe.config
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\Kohonen\bin\Debug\Kohonen.exe
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\Kohonen\bin\Debug\Kohonen.pdb
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\Kohonen\bin\Debug\BoiteAOutils.dll
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\Kohonen\bin\Debug\BoiteAOutils.pdb
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\Kohonen\obj\Debug\Kohonen.csprojResolveAssemblyReference.cache
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\Kohonen\obj\Debug\Kohonen.exe
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\Kohonen\obj\Debug\Kohonen.pdb

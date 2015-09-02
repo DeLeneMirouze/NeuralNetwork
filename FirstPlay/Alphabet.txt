@@ -1,0 +1,88 @@
+﻿=> A
+ XXX  
+X   X
+XXXXX
+X   X
+
+
+=> B
+
+XXXX
+X   X
+XXXX
+X   X
+XXXX
+
+=> C
+
+ XXXX
+X
+X
+X
+ XXXX
+
+ => D
+
+XXXX
+X   X
+X   X
+X   X
+XXXX
+
+=> E
+
+XXXXX
+X
+XXXXX
+X
+XXXXX
+
+=> F
+
+XXXXX
+X
+XXXXX
+X
+X
+
+=> G
+
+ XXXXX
+X
+XXXXX
+X    X
+ XXXXX
+
+ => H
+
+
+X    X
+X    X
+XXXXXX
+X    X
+X    X
+
+=> I
+
+X
+X
+X
+X
+X
+
+=> J
+
+
+   X
+   X
+   X
+   X
+XXX
+
+
+
+
+
+
+
+

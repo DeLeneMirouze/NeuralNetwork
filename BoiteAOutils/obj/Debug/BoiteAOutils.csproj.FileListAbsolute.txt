@@ -1,0 +1,5 @@
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\BoiteAOutils\bin\Debug\BoiteAOutils.dll
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\BoiteAOutils\bin\Debug\BoiteAOutils.pdb
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\BoiteAOutils\obj\Debug\BoiteAOutils.csprojResolveAssemblyReference.cache
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\BoiteAOutils\obj\Debug\BoiteAOutils.dll
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\BoiteAOutils\obj\Debug\BoiteAOutils.pdb

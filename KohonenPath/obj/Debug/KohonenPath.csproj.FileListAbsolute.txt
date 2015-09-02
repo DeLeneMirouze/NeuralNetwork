@@ -1,0 +1,11 @@
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\KohonenPath\bin\Debug\KohonenPath.exe.config
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\KohonenPath\bin\Debug\KohonenPath.exe
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\KohonenPath\bin\Debug\KohonenPath.pdb
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\KohonenPath\obj\Debug\KohonenPath.Form1.resources
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\KohonenPath\obj\Debug\KohonenPath.Properties.Resources.resources
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\KohonenPath\obj\Debug\KohonenPath.csproj.GenerateResource.Cache
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\KohonenPath\obj\Debug\KohonenPath.exe
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\KohonenPath\obj\Debug\KohonenPath.pdb
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\KohonenPath\obj\Debug\KohonenPath.csprojResolveAssemblyReference.cache
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\KohonenPath\bin\Debug\BoiteAOutils.dll
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\KohonenPath\bin\Debug\BoiteAOutils.pdb

@@ -1,0 +1,11 @@
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\MultiCouche\bin\Debug\Zones.txt
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\MultiCouche\bin\Debug\Zones2.txt
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\MultiCouche\bin\Debug\MultiCouche.exe.config
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\MultiCouche\bin\Debug\MultiCouche.exe
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\MultiCouche\bin\Debug\MultiCouche.pdb
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\MultiCouche\bin\Debug\BoiteAOutils.dll
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\MultiCouche\bin\Debug\BoiteAOutils.pdb
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\MultiCouche\obj\Debug\MultiCouche.csprojResolveAssemblyReference.cache
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\MultiCouche\obj\Debug\MultiCouche.exe
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\MultiCouche\obj\Debug\MultiCouche.pdb
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\MultiCouche\bin\Debug\iris.csv

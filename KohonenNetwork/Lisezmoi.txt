@@ -1,0 +1,47 @@
+﻿
+robot:
+http://members.ozemail.com.au/~dekker/robot.pdf
+
+
+
+
+quantification d'une image:
+http://www.codeproject.com/Articles/66341/A-Simple-Yet-Quite-Powerful-Palette-Quantizer-in-C
+http://members.ozemail.com.au/~dekker/NEUQUANT.HTML
+
+
+learning machine
+
+https://www.youtube.com/watch?v=GPXvtoIAbOg
+
+
+
+visual studio
+https://www.youtube.com/watch?v=9aHJ-FAzQaE
+http://www.codeproject.com/Articles/16447/Neural-Networks-on-C
+
+Kohonen
+http://www.shy.am/wp-content/uploads/2009/01/kohonen-self-organizing-maps-shyam-guthikonda.pdf
+http://www.ai-junkie.com/ann/som/som1.html
+http://dynamicnotions.blogspot.fr/2008/11/c-self-organising-map-som.html
+http://www.codeproject.com/Articles/16273/Self-Organizing-Feature-Maps-Kohonen-maps
+http://www.generation5.org/content/2004/aiSomPic.asp
+https://fr.wikipedia.org/wiki/Carte_auto_adaptative
+
+
+https://www.youtube.com/watch?v=H9H6s-x-0YE
+
+
+http://www.codeproject.com/Articles/16447/Neural-Networks-on-C
+
+http://www.cleveralgorithms.com/nature-inspired/neural/som.html
+
+
+comparaison de simulateurs:
+https://grey.colorado.edu/emergent/index.php/Comparison_of_Neural_Network_Simulators
+https://www.crcpress.com/Exploring-Neural-Networks-with-C/Tadeusiewicz-Chaki-Chaki/9781482233391
+
+
+tutorial
+
+https://www.mql5.com/en/articles/283

@@ -1,0 +1,6 @@
+c:\users\frédéric\documents\visual studio 2015\Projects\NeuralNetwork\FirstPlay\bin\Debug\FirstPlay.exe.config
+c:\users\frédéric\documents\visual studio 2015\Projects\NeuralNetwork\FirstPlay\bin\Debug\FirstPlay.exe
+c:\users\frédéric\documents\visual studio 2015\Projects\NeuralNetwork\FirstPlay\bin\Debug\FirstPlay.pdb
+c:\users\frédéric\documents\visual studio 2015\Projects\NeuralNetwork\FirstPlay\obj\Debug\FirstPlay.csprojResolveAssemblyReference.cache
+c:\users\frédéric\documents\visual studio 2015\Projects\NeuralNetwork\FirstPlay\obj\Debug\FirstPlay.exe
+c:\users\frédéric\documents\visual studio 2015\Projects\NeuralNetwork\FirstPlay\obj\Debug\FirstPlay.pdb

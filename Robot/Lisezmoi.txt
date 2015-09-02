@@ -1,0 +1,20 @@
+﻿soccer
+
+http://www.researchgate.net/publication/51215656_Tactical_pattern_recognition_in_soccer_games_by_means_of_special_self-organizing_maps
+http://www.sid.ir/en/VEWSSID/J_pdf/856200803A05.pdf
+
+http://www.researchgate.net/publication/228796054_2D_Soccer_Simulation_Team_Description_Paper_2011
+http://sourceforge.net/projects/sserver/
+
+
+http://www.aaai.org/Papers/AIIDE/2006/AIIDE06-019.pdf
+
+
+https://www.youtube.com/watch?v=cP035M_w82s
+https://mobile.aau.at/~welmenre/papers/fehervari-2010-Evolving_Neural_Network_Controllers_for_a_Team_of_Self-organizing_Robots.pdf
+
+cet exemple
+http://page.mi.fu-berlin.de/rojas/neural/chapter/K15.pdf
+http://www.researchgate.net/publication/2639623_Robot_Map_Building_by_Kohonen%27s_Self-Organizing_Neural_Networks
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.35.2258&rep=rep1&type=pdf
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.35.2258&rep=rep1&type=pdf

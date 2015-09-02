@@ -1,0 +1,9 @@
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\FirstPlay\bin\Debug\Alphabet.txt
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\FirstPlay\bin\Debug\Perceptron.exe.config
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\FirstPlay\bin\Debug\Perceptron.exe
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\FirstPlay\bin\Debug\Perceptron.pdb
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\FirstPlay\bin\Debug\BoiteAOutils.dll
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\FirstPlay\bin\Debug\BoiteAOutils.pdb
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\FirstPlay\obj\Debug\Perceptron.exe
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\FirstPlay\obj\Debug\Perceptron.pdb
+C:\Users\Frédéric\documents\visual studio 2015\Projects\NeuralNetwork\FirstPlay\obj\Debug\Perceptron.csprojResolveAssemblyReference.cache
