@@ -6,7 +6,7 @@ using System.Drawing;
 
 namespace Robot
 {
-    class Robot
+    sealed class Robot
     {
         #region Constructeur
         /// <summary>
