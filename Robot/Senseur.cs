@@ -4,6 +4,9 @@ using System;
 
 namespace Robot
 {
+    /// <summary>
+    /// Capteurs du robot
+    /// </summary>
     public sealed class Senseur
     {
         #region Constructeur
